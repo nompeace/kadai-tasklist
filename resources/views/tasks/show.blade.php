@@ -13,7 +13,7 @@
             <th>ステータス</th>
             <td>{{ $task->status }}</td>
         </tr>
-        <tr>
+        <tr>git 
             <th>タスク</th>
             <td>{{ $task->content }}</td>
         </tr>
